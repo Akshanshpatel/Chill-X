@@ -1,3 +1,7 @@
+***Work Under Progress**
+<p>In this site I setup my Next.js App and implemented Clerk auth for using google sign-in</p>
+<p>Will implement OpenAi and a system for blogs updation and storage and a random meme fetching api further...</p>
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
